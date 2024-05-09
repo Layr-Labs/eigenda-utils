@@ -1,0 +1,12 @@
+{
+  "name": "eigenda-utils",
+  "description": "Contracts used for interfacing with EigenDA",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Layr-Labs/eigenda-utils.git"
+  },
+  "author": "Eigen Labs",
+  "license": "MIT",
+  "homepage": "https://docs.eigenlayer.xyz/eigenda/overview"
+}
