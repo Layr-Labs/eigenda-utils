@@ -1,5 +1,5 @@
 {
-  "name": "eigenda-utils",
+  "name": "@eigenda/eigenda-utils",
   "description": "Contracts used for interfacing with EigenDA",
   "version": "1.0.0",
   "repository": {
